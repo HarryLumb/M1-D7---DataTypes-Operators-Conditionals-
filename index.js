@@ -28,10 +28,7 @@ console.log("Excercise 2: a conatiner for information to be stored");
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
 
-let num1 = 5;
-let num2 = 2;
-
-console.log("exercise 3:", num1 + num2);
+console.log("exercise 3:", 12 + 20);
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
